@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Car Simulator</string>
+    <string name="how_are_you">Привет</string>
 </resources>
