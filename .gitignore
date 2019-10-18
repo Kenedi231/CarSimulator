@@ -1,8 +1,6 @@
 *.iml
 .idea
-.gradle
 local.properties
-*.iml
 .vscode/
 .directory
 .gradle
@@ -10,3 +8,4 @@ local.properties
 /build
 /captures
 .externalNativeBuild
+_mac
